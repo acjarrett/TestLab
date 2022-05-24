@@ -17,4 +17,4 @@ Space for anyone to practice using Git.  See practice sample below:
 14. Assuming it's in the .ignore file, check the status and verify it will not be added to Git
 15. Modify File but instead of Merging, revert back prior to the last commit.  It's okay to do this by creating another commit
 16. Reset back to what is in Origin
-17. Practice using the GUI in Github or 
+17. Practice using the GUI in Github or Git-GUI
