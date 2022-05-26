@@ -1,0 +1,9 @@
+Git VI and VIM
+
+to get out esc + :q!
+
+:q!
+:wq
+i
+a
+r
